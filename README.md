@@ -9,11 +9,6 @@
 [![python](https://img.shields.io/badge/release-v0.4.5-brightgreen)](https://github.com/shmilylty/OneForAll/releases)
 
 👊 **Endutcherneters  is a powerful subdomain collection tool**  
-📝 [English Document](https://github.com/shmilylty/OneForAll/tree/master/docs/en-us/README.md)
-
-![Example](./docs/usage_example.svg)
-
----
 
 ## 🚀 Getting Started
 
