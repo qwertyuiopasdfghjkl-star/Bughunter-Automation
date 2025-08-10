@@ -75,11 +75,7 @@ docker run -it --rm   -v ~/results:/OneForAll/results   -v ~/.config:/OneForAll/
 ```bash
 python3 Endutcherneters .py --target example.com run
 python3 Endutcherneters .py --targets ./example.txt run
-```
 
-![Example](./docs/usage_example.svg)
-
----
 
 ### 🧐 Results
 
