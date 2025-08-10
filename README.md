@@ -21,7 +21,7 @@
 
 ### 🐍 Requirements
 
-OneForAll is developed based on [Python 3.6.0](https://www.python.org/downloads/release/python-360/), and requires Python >= 3.6.0 to run.
+Endutcherneters  is developed based on [Python 3.6.0](https://www.python.org/downloads/release/python-360/), and requires Python >= 3.6.0 to run.
 
 Check your version:
 ```bash
